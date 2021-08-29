@@ -1,11 +1,11 @@
 @font-face {
     font-family: Averta;
-    src: url(/assets/fonts/Averta.otf);
+    src: url(./assets/fonts/Averta.otf);
 }
 
 @font-face {
     font-family: Sansita;
-    src: url(/assets/fonts/Sansita-Regular.ttf);
+    src: url(./assets/fonts/Sansita-Regular.ttf);
 }
 
 .loader_bg{
