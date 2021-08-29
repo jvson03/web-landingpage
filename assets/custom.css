@@ -1,11 +1,11 @@
 @font-face {
     font-family: Averta;
-    src: url(./assets/fonts/Averta.otf);
+    src: url(./fonts/Averta.otf);
 }
 
 @font-face {
     font-family: Sansita;
-    src: url(./assets/fonts/Sansita-Regular.ttf);
+    src: url(./fonts/Sansita-Regular.ttf);
 }
 
 .loader_bg{
@@ -62,7 +62,7 @@
 .hero{
     width: 100%;
     height: 100vh;
-    background-image: url(background1.png);
+    background-image: url(./background1.png);
     background-size: cover;
     background-position: center;
     position: relative;
